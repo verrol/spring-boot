@@ -461,7 +461,7 @@ text editor for this example.
 
 [[getting-started-first-application-dependencies]]
 === Adding classpath dependencies
-Spring Boot provides a number of ``Starter POMs'' that make easy to add jars to your
+Spring Boot provides a number of ``Starter POMs'' that makes it easy to add jars to your
 classpath. Our sample application has already used `spring-boot-starter-parent` in the
 `parent` section of the POM. The `spring-boot-starter-parent` is a special starter
 that provides useful Maven defaults. It also provides a `dependency-management` section
